@@ -1,1 +1,1 @@
-# Laberinto by Santino Casolati
+# Laberinto in Java by Santino Casolati
